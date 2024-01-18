@@ -1,0 +1,3 @@
+[submodule "Nest/vendor/spdlog"]
+	path = Nest/vendor/spdlog
+	url = git@github.com:Jerryym/spdlog.git
